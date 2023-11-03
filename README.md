@@ -5,7 +5,8 @@ Introducing OSORM, the only Open-Source Organisation Relationship Manager you'll
 Welcome to OSORM, your all-in-one solution for efficient organization management. Founded by @arashnrim and @pengsies, OSORM is the culmination of our diverse tech backgrounds, extensive involvement in multiple (tech-related, of course 😉) special interest groups (SIGs), and roles within executive committees of SIGs. Drawing from our collective experiences, we've created OSORM, a platform that simplifies the complexities of organizational management and empowers the next generation of organization/community leaders.
 
 ## What is OSORM? 🌐
-OSORM, short for Open-Source Organisation Relationship Manager, presents a groundbreaking approach to how you can interact with and manage your organization. Our platform empowers leaders by providing enhanced integration with their organization's structure and member relationships, which can amplify their leadership responsibilities while reducing the overall effort required, thanks to OSORM. 🤝
+**OSORM**, short for **Open-Source Organisation Relationship Manager**, revolutionizes the way you interact with and manage your organization. Designed for self-hosting, our platform empowers leaders, offering seamless integration with your organization's structure and member relationships, allowing you to carry out your leadership responsibilities while reducing overall administrative efforts. 🤝
+
 
 ## OSORM Branches 🌿
 In many projects that I use, I have a habit of setting up structured branches in order to facilitate a more streamlined Continuous Development (CD). Here are the branches OSORM uses:
@@ -19,14 +20,17 @@ In many projects that I use, I have a habit of setting up structured branches in
 - `mainmerge`: This branch is created to facilitate the merging of changes into the `main` branch due to security measures put in place to protect the `main` branch. It serves as an intermediate branch where pull requests are made from other feature branches or development branches. The purpose of this branch is to consolidate and review the changes before merging them into the `main` branch. It allows for thorough testing, code reviews, and validation of the proposed changes to ensure they align with the project's standards and requirements. The `mainmerge` branch helps maintain the integrity and reliability of the `main` branch by providing a controlled and structured approach to merging updates.
 
 ## Key Features💡
-(REMAIN EMPTY)
+(To be Completed)
+
+## DEMO
+(To be Completed)
 
 ## Getting Started 🔑
 ### Documentation 📚
-(REMAIN EMPTY)
+(To be Completed)
 
 ### Set-Up 🛠️
-(REMAIN EMPTY)
+(To be Completed)
 
 ## Contributing 🤝
 ### Credits 🎉
