@@ -40,3 +40,4 @@ In many projects that I use, I have a habit of setting up structured branches in
 
 ### Join Us! 🤗
 Feel free to submit a Pull Request to the repository, with the username you wish to be credited with, as well as one preferred social link if you like! If you have any more remaining questions, feel free to email `pengsies@gmail.com`! ✉️
+l free to email `pengsies@gmail.com`! ✉️
