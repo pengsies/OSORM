@@ -9,7 +9,7 @@ Welcome to OSORM, your all-in-one solution for efficient organization management
 
 
 ## OSORM Branches 🌿
-In many projects that I use, I have a habit of setting up structured branches in order to facilitate a more streamlined Continuous Development (CD). Here are the branches OSORM uses:
+To improve accessibility and readability, OSORM uses 4 branches, which are:
 
 - `main`: This branch contains the last completed and tested version of the project, which is considered stable and ready for use. It represents the production-ready code and should be used as the base branch for deployments. Only well-tested and reviewed changes are merged into this branch to ensure the reliability and stability of the project.
 
